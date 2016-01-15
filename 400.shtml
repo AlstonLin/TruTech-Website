@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="http://www.trutechinnovations.com/logo.png">
+<title>TruTech Innovations</title>
+<meta name="description" content="Currently Under Construction">
+</head>
+<body>
+<center>
+<h1>401 - Bad Request</h1>
+<h3>Sorry about that <br /> Here's a potato</h3>
+<br />
+<img src="potato.png" alt="Potato" />
+</center>
+</body>
+</html>
